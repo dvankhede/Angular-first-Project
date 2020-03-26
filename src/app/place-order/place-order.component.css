@@ -1,0 +1,194 @@
+.topnav {
+    overflow: hidden;
+    background-color: rgb(40,116,240);
+    margin: -22px -8px 42px;
+    padding: 32px
+  }
+  .MyAccount {
+    float: left;
+    color:white ;
+    white-space: nowrap;
+    padding: -1px 88px 16px 16px;
+    margin: -102px -16px 32px 1354px;
+    text-decoration: none;
+    font-size: 20px;     
+  }
+.search-container{
+    width: 318px;
+    padding: 5px;
+    margin: -15px;
+    margin-left: 326px
+  }
+  .search-button{
+    width: 98px;
+    height: 30px;
+    margin-left: 17px;
+  }
+  .dropbtn {
+    background-color: rgb(40,116,240);
+    color: white;
+    padding: 16px;
+    font-size: 16px;
+    border: none;
+    cursor: pointer;
+    margin-left: 557px;
+  }
+  
+  .dropdown {
+    position: relative;
+    display: inline-block;
+    margin: 20px 20px 20px 20px;
+    padding: 20px 20px 20px 20px;
+  }
+  
+  .dropdown-content {
+    display: none;
+    position: absolute;
+    background-color: #f9f9f9;
+    min-width: 160px;
+    box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+    z-index: 1;
+  }
+  
+  .dropdown-content a {
+    color: black;
+    padding: 12px 16px;
+    margin-left: 20px;
+    text-decoration: none;
+    display: block;
+  }
+  
+  .dropdown-content a:hover {background-color: #f1f1f1}
+  
+  .dropdown:hover .dropdown-content {
+    display: block;
+  }
+  .card1{
+    background: #fff;
+    margin: -327px 567px 152px 92px;
+    padding: 228px 104px 114px 105px
+  }
+  .line{
+    margin: -58px;
+    margin-left: -36px;
+    margin-right: -13px;
+}
+  
+  .span {
+    display: block;
+    padding: 20px 20px 20px 20px;
+    margin: -301px 20px 20px -31px;
+    font-weight: 500;
+    color: #878787;
+    min-height: 47px;
+    border-radius: 2px 2px 0 0;
+}.card2P1{
+  margin: 84px 84px 84px -10px;
+  font-size: 19px;
+}.card2P2{
+  margin: 20px 20px 20px 20px;
+  padding: 20px 20px 20px 20px;
+  font-size: 19px;
+}
+  .card2{
+    background: #fff;
+    margin: 3px 29px -46px 980px;
+    padding: 302px 15px 24px 37px;
+  }
+  .p1{
+    margin: -226px 20px 35px -97px;
+    padding: 17px 20px 20px 20px;
+    font-size: 20px
+}
+.p2{
+    margin: -110px 20px 35px 353px;
+    padding: 17px 20px 20px 20px;
+    font-size: 15px;
+    color: rgb(187,221,240);
+    
+}
+.p3{
+    margin: -152px 35px 35px 21px;
+    padding: 17px 20px 20px 20px;
+    font-size: 14px;
+}
+.p4{
+    margin: -53px 35px 35px 21px;
+    padding: 17px 20px 20px 20px;
+    font-size: 14px;
+}
+.p5{
+    margin: -53px 35px 35px 21px;
+    padding: 17px 20px 20px 20px;
+    font-size: 16px;
+}
+.p6{
+    margin: -53px 35px 35px 21px;
+    padding: 17px 20px 20px 20px;
+    font-size: 18px;
+}
+  .deliveredImage{
+      margin: -135px 20px 19px 314px;
+      padding: 20px 20px 20px 20px;
+  }
+  .image2{
+    margin: 43px 37px 26px -103px;
+    padding: 20px 20px 20px 20px;
+  }
+  .Deliverto{
+    margin: -92px 20px 19px 434px;
+    padding: 20px 20px 20px 20px;
+  }
+  .button {
+    background-color: hsl(240, 28%, 86%); /* Green */
+    border: none;
+    color: black;
+    padding: 0px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px -82px;
+    cursor: pointer;
+    
+  }
+  .minus{
+    width: 31px;
+    height: 31px;
+    border-radius: 50%;
+  }
+  .plus{
+    width: 31px;
+    height: 31px;
+    border-radius: 50%;
+    margin: 2px 20px 20px 150px;
+    padding: -4px 20px 20px 20px;
+  }
+  .input1{
+    margin: 15px -12px 20px 19px;
+    padding: 17px 22px 0px 4px;
+    text-align: middle;
+    width: 18px;
+    height: 9px;
+  }
+  .input{
+    margin: -236px 30px 20px -80px;
+    padding: 20px 20px 20px 20px
+  }
+  .PlaceOrder{
+    background-color: rgb(251,100,27);
+    border: none;
+    color: white;
+    padding: 20px 100px 20px 100px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 0px -82px 0px 214px;
+    cursor: pointer;
+    border-radius: 2px
+  }
+  .PlaceOrderCard{
+    margin: 33px 20px 20px 112px;
+    padding: 20px 20px 20px 20px;
+  }
